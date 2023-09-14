@@ -1,4 +1,4 @@
-// Um tipo tuple (tupla em pt-BR) é outro tipo de array com a diferença de que ele sabe exatamente quantos elementos esse array contêm e exatamente wuais tipos de dados ele contêm em posições específicas.
+// Um tipo tuple (tupla em pt-BR) é outro tipo de array com a diferença de que ele sabe exatamente quantos elementos esse array contêm e exatamente quais tipos de dados ele contêm em posições específicas.
 
 // OBS: Nas tuplas a ordem dos elementos IMPORTA
 
