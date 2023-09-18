@@ -6,9 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuhLoyola/type-script.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuhLoyola/type-script/issues"
+  },
+  "homepage": "https://github.com/GuhLoyola/type-script#readme",
   "devDependencies": {
     "typescript": "^5.2.2"
   }
